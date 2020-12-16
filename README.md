@@ -29,7 +29,7 @@ birlikte | işaretiyle ayrı yazıldığında birlikte çalışmaktadır.
 Terminal ekranında girilen parametreler arasındaki boşlukları kontrol için splitLine[*]
 fonksiyonunda tokenize işlemi yapılmıştır.
 
-![SS1](http://github.com/omerkucuker/MyShell/blob/main/screens/myshell_ss.png)
+![SS1](https://github.com/omerkucuker/MyShell/blob/main/screens/myshell_ss.png?raw=true)
 ![SS2](http://github.com/omerkucuker/MyShell/blob/main/screens/myshell_catkomutu.PNG)
 
 
