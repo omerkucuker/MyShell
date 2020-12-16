@@ -30,6 +30,6 @@ Terminal ekranında girilen parametreler arasındaki boşlukları kontrol için 
 fonksiyonunda tokenize işlemi yapılmıştır.
 
 ![SS1](https://github.com/omerkucuker/MyShell/blob/main/screens/myshell_ss.png?raw=true)
-![SS2](http://github.com/omerkucuker/MyShell/blob/main/screens/myshell_catkomutu.PNG)
+![SS2](https://github.com/omerkucuker/MyShell/blob/main/screens/myshell_catkomutu.PNG?raw=true)
 
 
