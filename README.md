@@ -1,4 +1,4 @@
-#Myshell Programı Hakkında
+## Myshell Programı Hakkında
 Bu projede kendi komutlarımızı oluşturduğumuz, fork ve exec yapısını kullanarak farklı
 programları çağırabileceğimiz C dilinde Shell programlanması amaçlanmaktadır. Projede beş
 adet programımız bulunmaktadır; myshell.c, işlem.c, topla.c, cikar.c ve tekrar.c
@@ -29,7 +29,7 @@ birlikte | işaretiyle ayrı yazıldığında birlikte çalışmaktadır.
 Terminal ekranında girilen parametreler arasındaki boşlukları kontrol için splitLine[*]
 fonksiyonunda tokenize işlemi yapılmıştır.
 
-![alt text](http://github.com/omerkucuker/MyShell/screens/myshell_ss.png)
-![alt text](http://github.com/omerkucuker/MyShell/screens/myshell_catkomutu.png)
+![alt text](http://github.com/omerkucuker/MyShell/blob/main/screens/myshell_ss.png)
+![alt text](http://github.com/omerkucuker/MyShell/blob/main/screens/myshell_catkomutu.PNG)
 
 
